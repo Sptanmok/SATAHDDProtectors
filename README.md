@@ -1,4 +1,6 @@
 # SATAHDDProtectors
+SATA机械硬盘保护器  
+在不稳定环境中为机械硬盘提供可靠保护  
 Reliable protection for HDDs in unstable environments  
 Note! If it is not verified, it may result in hardware burnout  
 注意！目前版本未经验证。可能导致硬件烧毁  
